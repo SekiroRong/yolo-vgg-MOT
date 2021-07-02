@@ -1,15 +1,13 @@
-本文地址：[https://blog.csdn.net/weixin_44936889/article/details/112002152](https://blog.csdn.net/weixin_44936889/article/details/112002152)
-
 # 注意：
 
 本项目使用Yolov5 3.0版本，4.0版本需要替换掉models和utils文件夹
 
 # 项目简介：
-使用YOLOv5+Deepsort实现车辆行人追踪和计数，代码封装成一个Detector类，更容易嵌入到自己的项目中。
+使用YOLOv5+Deepsort+VGG实现行人MOT和ReID，代码封装成一个Detector类，更容易嵌入到自己的项目中。
 
 代码地址（欢迎star）：
 
-[https://github.com/Sharpiless/Yolov5-deepsort-inference](https://github.com/Sharpiless/Yolov5-deepsort-inference)
+[https://github.com/SekiroRong/yolo-vgg-MOT](https://github.com/SekiroRong/yolo-vgg-MOT)
 
 最终效果：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201231090541223.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDkzNjg4OQ==,size_16,color_FFFFFF,t_70)
@@ -128,21 +126,6 @@ result = det.feedCap(im, func_status)
 
 返回的 result 是字典，result['frame'] 返回可视化后的图像
 
-# 关注我的公众号：
-
-感兴趣的同学关注我的公众号——可达鸭的深度学习教程：
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210127153004430.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDkzNjg4OQ==,size_16,color_FFFFFF,t_70)
-
-
 # 联系作者：
 
-> B站：[https://space.bilibili.com/470550823](https://space.bilibili.com/470550823)
-
-> CSDN：[https://blog.csdn.net/weixin_44936889](https://blog.csdn.net/weixin_44936889)
-
-> AI Studio：[https://aistudio.baidu.com/aistudio/personalcenter/thirdview/67156](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/67156)
-
-> Github：[https://github.com/Sharpiless](https://github.com/Sharpiless)
-
-遵循 GNU General Public License v3.0 协议，标明目标检测部分来源：https://github.com/ultralytics/yolov5/
+> Github：[https://github.com/SekiroRong](https://github.com/SekiroRong)
