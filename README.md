@@ -14,6 +14,9 @@
 
 最终效果：
 ![4h9t2-f9sds.gif](https://i.loli.net/2021/07/02/No1AKhH3gCS2ekx.gif)
+
+显然当对象收到遮挡时的效果不佳，项目还有待改进。
+
 # YOLOv5检测器：
 
 ```python
