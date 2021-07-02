@@ -9,6 +9,9 @@
 
 [https://github.com/SekiroRong/yolo-vgg-MOT](https://github.com/SekiroRong/yolo-vgg-MOT)
 
+项目基于这个项目进行了改造。
+[https://github.com/Sharpiless/Yolov5-deepsort-inference](https://github.com/Sharpiless/Yolov5-deepsort-inference)
+
 最终效果：
 ![4h9t2-f9sds.gif](https://i.loli.net/2021/07/02/No1AKhH3gCS2ekx.gif)
 # YOLOv5检测器：
