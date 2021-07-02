@@ -10,7 +10,7 @@
 [https://github.com/SekiroRong/yolo-vgg-MOT](https://github.com/SekiroRong/yolo-vgg-MOT)
 
 最终效果：
-![QQ图片20210702130147.png](https://i.loli.net/2021/07/02/DeyhK3cvtJR6kNY.png)
+![4h9t2-f9sds.gif](https://i.loli.net/2021/07/02/No1AKhH3gCS2ekx.gif)
 # YOLOv5检测器：
 
 ```python
