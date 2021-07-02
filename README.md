@@ -10,7 +10,7 @@
 [https://github.com/SekiroRong/yolo-vgg-MOT](https://github.com/SekiroRong/yolo-vgg-MOT)
 
 最终效果：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20201231090541223.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDkzNjg4OQ==,size_16,color_FFFFFF,t_70)
+![QQ图片20210702130147.png](https://i.loli.net/2021/07/02/DeyhK3cvtJR6kNY.png)
 # YOLOv5检测器：
 
 ```python
